@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'blacker-display-r';
+    src:  url('BlackerDisplay-Regular.woff2') format('woff2'),
+        url('BlackerDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
